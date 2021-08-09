@@ -2,7 +2,7 @@
 
 ## Reference
 
-**[Benchmarking machine learning models on eICU critical care dataset](https://arxiv.org/abs/1910.00964v3)** by [Seyedmostafa Sheikhalishahi](https://scholar.google.it/citations?user=ck5btLoAAAAJ) and [Vevake Balaraman](https://scholar.google.it/citations?user=GTtAXeIAAAAJ) and [Venet Osmani](https://venetosmani.com/research/)
+**[Benchmarking machine learning models on multi-centre eICU critical care dataset](https://arxiv.org/abs/1910.00964v3)** by [Seyedmostafa Sheikhalishahi](https://scholar.google.it/citations?user=ck5btLoAAAAJ) and [Vevake Balaraman](https://scholar.google.it/citations?user=GTtAXeIAAAAJ) and [Venet Osmani](https://venetosmani.com/research/)
 
 ## Citation
 
