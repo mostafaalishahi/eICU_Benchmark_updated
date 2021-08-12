@@ -9,15 +9,11 @@ Relevant citation to our paper - [eICU paper](https://www.nature.com/articles/sd
 If you use this code or these benchmarks in your research, please cite the following publication.
 
 ```text
-@article{sheikhalishahi2020benchmarking,
-  title={Benchmarking machine learning models on multi-centre eICU critical care dataset},
+@article{sheikhalishahi2019benchmarking,
+  title={Benchmarking machine learning models on eICU critical care dataset},
   author={Sheikhalishahi, Seyedmostafa and Balaraman, Vevake and Osmani, Venet},
-  journal={Plos one},
-  volume={15},
-  number={7},
-  pages={e0235424},
-  year={2020},
-  publisher={Public Library of Science San Francisco, CA USA}
+  journal={arXiv preprint arXiv:1910.00964},
+  year={2021}
 }
 ```
 
