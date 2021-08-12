@@ -10,7 +10,7 @@ If you use this code or these benchmarks in your research, please cite the follo
 
 ```text
 @article{sheikhalishahi2019benchmarking,
-  title={Benchmarking machine learning models on eICU critical care dataset},
+  title={Benchmarking machine learning models on multi-centre eICU critical care dataset},
   author={Sheikhalishahi, Seyedmostafa and Balaraman, Vevake and Osmani, Venet},
   journal={arXiv preprint arXiv:1910.00964},
   year={2021}
